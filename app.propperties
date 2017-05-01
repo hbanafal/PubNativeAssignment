@@ -1,0 +1,20 @@
+#Platform should be either ios or Android
+platform=android
+
+#In caseof iOS this should be App ID and in case of Android this should be Package Name
+appIdOrPackage=com.test101.test101
+
+#This is App Nick Name and it should be different from the other app created earlier
+appNickname=test101
+
+#This is category of the App
+category=Travel
+
+#Keywords for the App
+keywords=testing,pubnative
+
+#Username to access Pubnative Dashboard
+username=hemantbanafal@gmail.com
+
+#Password of Pubnative Account
+password=hfp240
